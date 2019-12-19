@@ -8,6 +8,8 @@ _python_pip_packages:
   Archlinux:
     - python-pip
     - python-setuptools
+  Darwin:
+    - python3
   Debian:
     - python3-pip
     - python3-setuptools
